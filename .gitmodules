@@ -2,3 +2,7 @@
 	path = AI_Snake
 	url = git@github.com:FraioVeio/AI_Snake.git
 	branch = master
+[submodule "TestMobility"]
+	path = TestMobility
+	url = git@github.com:FraioVeio/TestMobility.git
+	branch = master
